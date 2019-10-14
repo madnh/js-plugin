@@ -1,0 +1,15 @@
+{
+  "name": "js-plugin",
+  "version": "1.0.0",
+  "description": "Plugin feature for others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "plugin",
+    "mixin"
+  ],
+  "author": "MaDnh",
+  "license": "MIT"
+}
